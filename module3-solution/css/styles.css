@@ -16,6 +16,10 @@ h2 {
     font-weight: bold;
 }
 
+.nav > li:hover {
+    background-color: whitesmoke;
+}
+
 .row {
     margin: 15px;
 }
