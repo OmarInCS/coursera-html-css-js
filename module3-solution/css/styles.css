@@ -1,0 +1,39 @@
+
+* {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+h1 {
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.row {
+    margin: 15px;
+}
+
+article {
+    background-color:lightblue;
+    padding: 15px;
+    height: 1000px;
+}
+
+.article-title {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+
+@media(max-width: 768px) {
+    .row {
+        margin: 15px 50px;
+    }
+}
